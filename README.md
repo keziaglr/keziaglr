@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keziaglr
+# 👋 Hi, I’m @keziaglr
 
 <!---
 keziaglr/keziaglr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
