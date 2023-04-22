@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @keziaglr
 - 🌱 I’m currently learning at Binus University
+- 👩🏻‍💻 I'm interested in iOS Development
 - 📫 How to reach me keziagloria24@gmail.com
 
 <!---
